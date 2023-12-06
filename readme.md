@@ -15,6 +15,7 @@ source .venv/bin/activate
 ```
 2. Install required Python libraries by running `pip install -r requirements.txt` inside the directory. 
 3. Install MPV either through the website or Homebrew (`brew install mpv`) or some other package installer.
+4. Add your API keys for OpenAI, DeepGram, and ElevenLabs to a `.env` file.
 
 # Running
 

@@ -176,3 +176,4 @@ shared/chat-sandbox/analysis_results.json
 shared/chat-sandbox/last_processed_id.txt
 shared/notebooks/ArmanT/app.py
 shared/notebooks/ArmanT/item.html
+/voice_recordings/output.wav
