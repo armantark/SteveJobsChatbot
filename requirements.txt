@@ -1,0 +1,7 @@
+elevenlabs
+deepgram-sdk
+openai
+python-dotenv
+tk
+sounddevice
+numpy
